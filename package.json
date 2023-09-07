@@ -1,0 +1,24 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node"
+  ],
+  "author": "Marlen <a.mar.rm.25@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "eslint": "^8.48.0",
+    "json-server": "^0.17.3",
+    "react": "^18.2.0"
+  }
+}
